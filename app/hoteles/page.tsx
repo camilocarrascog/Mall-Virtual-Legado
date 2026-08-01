@@ -14,7 +14,7 @@ const hotelesData = [
 
 export default function HotelesPage() {
   return (
-    <main className=main className="min-h-screen">
+    <main className="main min-h-screen">
       <div className="mb-8">
         <Link href="/" className="text-[#e5a93b] hover:underline text-sm flex items-center gap-2">
           ← Volver al Mall Principal
